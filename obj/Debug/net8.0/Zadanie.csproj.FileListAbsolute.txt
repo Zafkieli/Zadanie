@@ -12,3 +12,4 @@ c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
 c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.pdb
 c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
 c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.sourcelink.json
