@@ -1,0 +1,14 @@
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\bin\Debug\net8.0\Zadanie.exe
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\bin\Debug\net8.0\Zadanie.deps.json
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\bin\Debug\net8.0\Zadanie.runtimeconfig.json
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\bin\Debug\net8.0\Zadanie.dll
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\bin\Debug\net8.0\Zadanie.pdb
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfoInputs.cache
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfo.cs
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.csproj.CoreCompileInputs.cache
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.dll
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.pdb
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
+c:\Users\Zafkiel\Desktop\siszarp\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll
